@@ -32,8 +32,8 @@ export const AppData = {
         }
     ],
     mockups: [
-        { id: 1, alt: "Mobile App Screen 1", src: "/src/assets/mockup1.png" },
-        { id: 2, alt: "Mobile App Screen 2", src: "/src/assets/mockup2.png" },
-        { id: 3, alt: "Mobile App Screen 3", src: "/src/assets/mockup3.png" }
+        { id: 1, alt: "Mobile App Screen 1", src: "./src/assets/mockup1.png" },
+        { id: 2, alt: "Mobile App Screen 2", src: "./src/assets/mockup2.png" },
+        { id: 3, alt: "Mobile App Screen 3", src: "./src/assets/mockup3.png" }
     ]
 };
